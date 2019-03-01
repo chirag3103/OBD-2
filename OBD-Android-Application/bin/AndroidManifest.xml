@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.obd.reader.activity"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.obd.activity.WelcomeActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.obd.activity.ConfigTabActivity" >
+        </activity>
+        <activity android:name="com.obd.activity.MainActivity" >
+        </activity>
+        <activity
+            android:name="com.obd.activity.ConfigActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.obd.activity.TroubleCodesActivity"
+            android:label="@string/title_activity_trouble_codes" >
+        </activity>
+        <activity
+            android:name="com.obd.activity.TripListActivity"
+            android:label="@string/title_activity_trips_list" >
+        </activity>
+
+        <service android:name="com.util.GPSTracker" >
+        </service>
+        <service
+            android:name="com.obd.reader.io.ObdGatewayService"
+            android:exported="false" />
+        <service
+            android:name="com.obd.reader.io.MockObdGatewayService"
+            android:exported="false" />
+    </application>
+
+</manifest>

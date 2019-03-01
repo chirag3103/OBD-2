@@ -1,0 +1,217 @@
+
+Jan 24, 2017 20:40:21.91 NEW SESSION
+Jan 24, 2017 20:40:21.91 1485270621851	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 24, 2017 22:19:27.74 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 24, 2017 22:20:07.72 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 24, 2017 22:36:35.03 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 25, 2017 22:51:42.06 1485364902061	addons.repository	WARN	Search failed when repopulating cache
+Jan 25, 2017 22:51:42.22 1485364902219	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 25, 2017 22:51:42.22 1485364902220	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 25, 2017 22:51:42.23 1485364902222	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 25, 2017 22:51:42.23 1485364902223	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 25, 2017 22:51:42.24 1485364902225	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 25, 2017 22:51:42.24 1485364902226	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 25, 2017 22:51:42.25 1485364902228	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 25, 2017 22:51:42.25 1485364902229	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 25, 2017 22:51:42.25 1485364902232	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 25, 2017 22:51:42.26 1485364902236	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 25, 2017 22:51:42.26 1485364902237	addons.manager	WARN	Failed to update system addons: Error: Failed downloading XML, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:111:16) JS Stack trace: downloadXML/</fail@ProductAddonChecker.jsm:111:16
+Jan 25, 2017 22:53:42.11 *************************
+Jan 25, 2017 22:53:42.12 A coding exception was thrown and uncaught in a Task.
+Jan 25, 2017 22:53:42.12 
+Jan 25, 2017 22:53:42.13 Full message: TypeError: NetworkError when attempting to fetch resource.
+Jan 25, 2017 22:53:42.13 Full stack: 
+Jan 25, 2017 22:53:42.13 *************************
+Jan 25, 2017 23:22:06.55 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 25, 2017 23:23:31.50 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 25, 2017 23:24:53.23 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 25, 2017 23:25:31.23 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 25, 2017 23:54:05.23 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 26, 2017 24:15:46.22 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 26, 2017 24:16:29.47 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 26, 2017 16:41:52.59 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 26, 2017 16:51:55.72 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 26, 2017 16:52:42.04 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 26, 2017 17:11:25.03 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 26, 2017 21:06:15.21 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 27, 2017 09:56:12.27 1485491172270	addons.repository	WARN	Search failed when repopulating cache
+Jan 27, 2017 09:56:12.33 1485491172328	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 27, 2017 09:56:12.34 1485491172331	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 27, 2017 09:56:12.34 1485491172332	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 27, 2017 09:56:12.35 1485491172334	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 27, 2017 09:56:12.35 1485491172336	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 27, 2017 09:56:12.36 1485491172337	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 27, 2017 09:56:12.36 1485491172338	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 27, 2017 09:56:12.37 1485491172342	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 27, 2017 09:56:12.37 1485491172345	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 27, 2017 09:56:12.37 1485491172349	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 27, 2017 09:56:12.38 1485491172350	addons.manager	WARN	Failed to update system addons: Error: Failed downloading XML, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:111:16) JS Stack trace: downloadXML/</fail@ProductAddonChecker.jsm:111:16
+Jan 27, 2017 10:02:56.53 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 27, 2017 10:08:16.79 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 27, 2017 10:13:37.53 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 27, 2017 10:31:33.45 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 27, 2017 21:38:05.30 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 27, 2017 21:40:06.52 [Parent 9940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Jan 28, 2017 10:31:17.53 1485579677526	addons.repository	WARN	Search failed when repopulating cache
+Jan 28, 2017 10:31:17.59 1485579677589	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 28, 2017 10:31:17.60 1485579677591	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 28, 2017 10:31:17.60 1485579677592	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 28, 2017 10:31:17.61 1485579677593	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 28, 2017 10:31:17.62 1485579677596	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 28, 2017 10:31:17.62 1485579677598	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 28, 2017 10:31:17.63 1485579677599	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 28, 2017 10:31:17.63 1485579677603	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 28, 2017 10:31:17.63 1485579677607	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 28, 2017 10:31:17.64 1485579677613	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 28, 2017 10:31:17.64 1485579677613	addons.manager	WARN	Failed to update system addons: Error: Failed downloading XML, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:111:16) JS Stack trace: downloadXML/</fail@ProductAddonChecker.jsm:111:16
+Jan 28, 2017 10:33:19.32 *************************
+Jan 28, 2017 10:33:19.43 A coding exception was thrown and uncaught in a Task.
+Jan 28, 2017 10:33:19.44 
+Jan 28, 2017 10:33:19.44 Full message: TypeError: NetworkError when attempting to fetch resource.
+Jan 28, 2017 10:33:19.44 Full stack: 
+Jan 28, 2017 10:33:19.45 *************************
+
+Feb 15, 2017 12:10:23.35 NEW SESSION
+Feb 15, 2017 12:10:23.35 1487140823282	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Feb 15, 2017 12:21:21.73 1487141481730	addons.repository	WARN	Search failed when repopulating cache
+Feb 15, 2017 12:21:21.78 1487141481781	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 12:21:21.79 1487141481782	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 12:21:21.79 1487141481783	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 12:21:21.80 1487141481784	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 12:21:21.80 1487141481784	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 12:21:21.81 1487141481785	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 12:21:21.81 1487141481786	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 12:21:21.82 1487141481789	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Feb 15, 2017 12:21:21.82 1487141481791	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Feb 15, 2017 12:21:21.82 1487141481793	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Feb 15, 2017 12:21:21.83 1487141481795	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 15, 2017 12:21:21.83 1487141481798	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Feb 15, 2017 12:21:21.84 1487141481799	addons.manager	WARN	Failed to update system addons: Error: Failed downloading XML, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:120:16) JS Stack trace: downloadXML/</fail@ProductAddonChecker.jsm:120:16
+Feb 15, 2017 12:23:21.70 *************************
+Feb 15, 2017 12:23:21.72 A coding exception was thrown and uncaught in a Task.
+Feb 15, 2017 12:23:21.73 
+Feb 15, 2017 12:23:21.74 Full message: TypeError: NetworkError when attempting to fetch resource.
+Feb 15, 2017 12:23:21.75 Full stack: 
+Feb 15, 2017 12:23:21.76 *************************
+Feb 15, 2017 12:56:34.12 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 12:57:17.64 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 12:58:02.72 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 13:07:26.58 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 13:23:11.29 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 13:24:08.52 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 13:24:50.45 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 14:17:23.92 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 14:25:09.73 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 21:49:11.21 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 21:49:51.21 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 21:54:34.22 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 21:55:51.21 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 22:04:33.07 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 22:15:56.79 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 22:33:06.85 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 22:36:56.90 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 22:41:59.99 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 22:43:13.09 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 22:43:58.79 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 22:49:50.40 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 22:50:36.83 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 23:59:32.19 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 15, 2017 23:59:37.96 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 24:01:37.23 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 24:29:50.40 [NPAPI 7864] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 24:31:37.53 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 24:36:57.29 [NPAPI 6784] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 24:40:22.72 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 24:45:42.71 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 10:04:27.05 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 10:40:20.75 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 11:20:46.77 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 12:14:49.58 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 12:22:20.48 1487227940402	addons.repository	WARN	Search failed when repopulating cache
+Feb 16, 2017 12:22:20.52 1487227940428	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 16, 2017 12:22:20.53 1487227940429	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 16, 2017 12:22:20.54 1487227940430	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 16, 2017 12:22:20.55 1487227940430	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 16, 2017 12:22:20.57 1487227940431	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 16, 2017 12:22:20.58 1487227940432	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 16, 2017 12:22:20.59 1487227940432	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 16, 2017 12:22:20.60 1487227940435	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Feb 16, 2017 12:22:20.61 1487227940438	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Feb 16, 2017 12:22:20.62 1487227940439	addons.manager	WARN	Failed to update system addons: Error: Failed downloading XML, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:120:16) JS Stack trace: downloadXML/</fail@ProductAddonChecker.jsm:120:16
+Feb 16, 2017 12:24:20.45 *************************
+Feb 16, 2017 12:24:20.47 A coding exception was thrown and uncaught in a Task.
+Feb 16, 2017 12:24:20.48 
+Feb 16, 2017 12:24:20.49 Full message: TypeError: NetworkError when attempting to fetch resource.
+Feb 16, 2017 12:24:20.51 Full stack: 
+Feb 16, 2017 12:24:20.52 *************************
+Feb 16, 2017 14:36:21.87 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 20:47:34.66 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 20:48:26.13 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 21:05:10.26 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 21:21:58.38 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 21:22:38.38 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 21:26:45.79 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 21:39:52.08 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 21:40:34.78 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 21:41:18.71 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 21:43:18.73 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 21:45:18.77 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 22:40:48.58 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 22:47:43.88 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 23:28:12.95 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 16, 2017 23:32:16.05 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 17, 2017 24:08:42.00 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 17, 2017 08:59:44.21 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 17, 2017 09:43:06.67 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Feb 17, 2017 10:23:35.72 [Parent 9280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+Feb 22, 2017 16:22:57.84 NEW SESSION
+Feb 22, 2017 16:22:57.84 1487760777796	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Feb 22, 2017 16:23:55.31 *************************
+Feb 22, 2017 16:23:55.31 A coding exception was thrown and uncaught in a Task.
+Feb 22, 2017 16:23:55.31 
+Feb 22, 2017 16:23:55.31 Full message: TypeError: NetworkError when attempting to fetch resource.
+Feb 22, 2017 16:23:55.33 Full stack: 
+Feb 22, 2017 16:23:55.33 *************************
+Feb 22, 2017 16:36:07.45 1487761567452	addons.repository	WARN	Search failed when repopulating cache
+Feb 22, 2017 16:36:19.57 1487761579570	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Feb 22, 2017 16:36:19.58 1487761579572	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Feb 22, 2017 16:36:19.58 1487761579574	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Feb 22, 2017 16:37:07.47 1487761627472	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=e10srollout@mozilla.org&version=1.7&maxAppVersion=51.*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=51.0.1&appOS=WINNT&appABI=x86-msvc&locale=en-US&currentAppVersion=51.0.1&updateType=112&compatMode=normal timed out
+Feb 22, 2017 16:37:07.49 1487761627482	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=firefox@getpocket.com&version=1.0.5&maxAppVersion=51.*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=51.0.1&appOS=WINNT&appABI=x86-msvc&locale=en-US&currentAppVersion=51.0.1&updateType=112&compatMode=normal timed out
+Feb 22, 2017 16:37:07.51 1487761627484	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=webcompat@mozilla.org&version=1.0&maxAppVersion=51.*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=51.0.1&appOS=WINNT&appABI=x86-msvc&locale=en-US&currentAppVersion=51.0.1&updateType=112&compatMode=normal timed out
+Feb 22, 2017 16:37:07.51 1487761627489	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=aushelper@mozilla.org&version=1.0&maxAppVersion=51.*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=51.0.1&appOS=WINNT&appABI=x86-msvc&locale=en-US&currentAppVersion=51.0.1&updateType=112&compatMode=normal timed out
+Feb 22, 2017 16:37:07.52 1487761627492	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id={972ce4c6-7e08-4474-a285-3208198ce6fd}&version=51.0.1&maxAppVersion=51.0.1&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=51.0.1&appOS=WINNT&appABI=x86-msvc&locale=en-US&currentAppVersion=51.0.1&updateType=112&compatMode=normal timed out
+Feb 22, 2017 16:37:07.52 1487761627496	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=diagnostics@mozilla.org&version=1.0&maxAppVersion=*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=51.0.1&appOS=WINNT&appABI=x86-msvc&locale=en-US&currentAppVersion=51.0.1&updateType=112&compatMode=normal timed out
+Feb 22, 2017 16:37:07.53 1487761627500	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=hsts-priming@mozilla.org&version=1.0&maxAppVersion=52.*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=51.0.1&appOS=WINNT&appABI=x86-msvc&locale=en-US&currentAppVersion=51.0.1&updateType=112&compatMode=normal timed out
+Feb 22, 2017 16:37:07.54 1487761627502	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=disableSHA1rollout@mozilla.org&version=1.2&maxAppVersion=52.*&status=userEnabled&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=51.0.1&appOS=WINNT&appABI=x86-msvc&locale=en-US&currentAppVersion=51.0.1&updateType=112&compatMode=normal timed out
+Feb 22, 2017 16:38:07.51 1487761687509	addons.update-checker	WARN	Request for https://versioncheck-bg.addons.mozilla.org/update/VersionCheck.php?reqVersion=2&id=firefox-hotfix@mozilla.org&version=20160826.01&maxAppVersion=%ITEM_MAXAPPVERSION%&status=userEnabled,incompatible&appID={ec8030f7-c20a-464f-9b0e-13a3a9e97384}&appVersion=51.0.1&appOS=WINNT&appABI=x86-msvc&locale=en-US&currentAppVersion=51.0.1&updateType=%UPDATE_TYPE%&compatMode=%COMPATIBILITY_MODE% timed out
+Feb 22, 2017 16:59:15.02 
+Feb 22, 2017 16:59:15.32 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E008E,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Feb 22, 2017 16:59:15.32 
+Feb 22, 2017 16:59:15.32 
+Feb 22, 2017 16:59:15.44 ###!!! [Parent][MessageChannel] Error: (msgtype=0x2E007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Feb 22, 2017 16:59:15.45 
+Feb 22, 2017 16:59:15.45 
+Feb 22, 2017 16:59:15.46 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 22, 2017 16:59:15.47 
+Feb 22, 2017 16:59:15.47 
+Feb 22, 2017 16:59:15.48 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 22, 2017 16:59:15.48 
+Feb 22, 2017 16:59:15.49 
+Feb 22, 2017 16:59:15.49 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 22, 2017 16:59:15.50 
+Feb 22, 2017 16:59:15.51 
+Feb 22, 2017 16:59:15.51 ###!!! [Child][MessageChannel] Error: (msgtype=0x2E002A,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+Feb 22, 2017 16:59:15.52 
+Feb 22, 2017 16:59:15.52 [Child 2884] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+May 09, 2017 19:17:05.10 NEW SESSION
+May 09, 2017 19:17:05.10 [GPU 5392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+May 09, 2017 19:17:05.17 [GPU 5392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+May 09, 2017 19:17:05.18 [Child 1668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+May 09, 2017 19:17:05.19 [Child 1668] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+May 09, 2017 19:17:05.19 [GPU 5392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+May 09, 2017 19:17:05.90 
+May 09, 2017 19:17:05.91 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+May 09, 2017 19:17:05.92 
